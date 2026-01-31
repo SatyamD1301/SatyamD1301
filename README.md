@@ -1,52 +1,67 @@
-<p align="center">
-  <img src="https://github.com/SatyamD1301/SatyamD1301/blob/main/selfimg3.jpeg" width="180" style="border-radius:50;" />
-</p>
+<h1 align="left">Hey 👋, I'm Satyam Dubey</h1>
 
-<h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
-<h3 align="center">Computer Science Student | Machine Learning & Web Developer</h3>
+###
 
----
+<p align="left">Final Year BTech CS student | ML & Web Developer</p>
 
-## 👨‍💻 About Me
-- 🎓 Final Year Computer Science BTech student  
-- 🤖 Strong interest in **Machine Learning, AI & Data-driven applications**  
-- 💻 Skilled in **Python, SQL, Flask, JavaScript**  
-- 🏥 Currently building **MedScan** – a handwritten medical prescription recognition system  
-- ⚔️ Regularly practicing **DSA using C++**  
-- 💼 Actively seeking **Internships & Entry-Level Software / ML roles**
+###
 
----
+<h2 align="left">About me</h2>
 
-## 🛠️ Tech Stack
-**Languages:** Python, C++, JavaScript, SQL  
-**Machine Learning:** NumPy, Pandas, OpenCV, Scikit-learn, TensorFlow  
-**Web Development:** HTML, CSS, Flask, React  
-**Databases:** Oracle SQL, MySQL  
-**Tools:** Git, GitHub, VS Code
+###
 
----
+<br clear="both">
 
-## 📌 Projects & Work
-- 🧠 **MedScan** – AI-based handwritten prescription identification  
-- 🌐 **Web Applications** – Flask & MERN-based projects  
-- 📊 **SQL Projects** – complex joins, queries & data analysis  
-- ⚔️ **DSA Repository** – structured problem-solving solutions  
+<p align="left">- 🧠 Focused on building real-world, problem-solving projects  <br>- 🤖 Developing Machine Learning applications using Python & OpenCV  <br>- 🏥 Building MedScan – Medical Prescription Recognition system  <br>- 🌐 Creating web applications using Flask & SQL  <br>- 💼 Open to Internship & Entry-Level roles</p>
 
----
+###
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamD1301&show_icons=true&theme=default" />
-</p>
+<h2 align="left">Skills</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SatyamD1301" />
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/SatyamD1301/
-- 📧 Email: satyamd1301@gmail.com
-
-⭐ Feel free to explore my repositories and connect!
+###
