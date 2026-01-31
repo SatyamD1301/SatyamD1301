@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/SatyamD1301/SatyamD1301/blob/main/selfimg3.jpeg" width="180" style="border-radius:50;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyam Dubey</h1>
